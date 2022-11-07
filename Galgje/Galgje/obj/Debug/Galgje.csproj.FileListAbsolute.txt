@@ -9,3 +9,4 @@ C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galg
 C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
 C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.exe
 C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.pdb
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.Galgje.resources

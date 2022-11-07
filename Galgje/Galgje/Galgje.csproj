@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Galgje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Galgje.Designer.cs">
+      <DependentUpon>Galgje.cs</DependentUpon>
+    </Compile>
     <Compile Include="Loadingscreen.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Galgje.resx">
+      <DependentUpon>Galgje.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Loadingscreen.resx">
       <DependentUpon>Loadingscreen.cs</DependentUpon>
     </EmbeddedResource>
