@@ -1,0 +1,11 @@
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\bin\Debug\Galgje.exe
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\bin\Debug\Galgje.pdb
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.csprojAssemblyReference.cache
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.Loadingscreen.resources
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.Main.resources
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.csproj.GenerateResource.cache
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.csproj.CoreCompileInputs.cache
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.exe
+C:\Users\brm20\OneDrive\Documenten\Mansur_Bataev\c#\Galgje\Galgje\obj\Debug\Galgje.pdb
